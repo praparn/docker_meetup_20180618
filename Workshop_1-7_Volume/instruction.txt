@@ -49,6 +49,7 @@ Part 1: Host Path Debug Program
 	node index.js
 
 13. Cleanup lab by command:
+	exit
 	docker container stop linenotify
 	docker container rm linenotify
 
